@@ -1,0 +1,5 @@
+<launch>
+                 <!--posetion node-->
+    <node name="pose_la_node" pkg="topic_subscriber_pkg" type="pose_node" />  
+ 
+ </launch>
